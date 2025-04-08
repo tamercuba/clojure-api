@@ -1,4 +1,4 @@
-(ns clojure-api.core-test
+(ns clojure-api.handlers.core-test
   (:require [clojure.test :refer :all]
             [clojure-api.handlers.core :refer :all]
             [clojure.data.json :as json]))
